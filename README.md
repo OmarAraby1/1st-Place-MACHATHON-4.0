@@ -1,8 +1,8 @@
-This is the code we used for the Simulation Phase on MACHATHON 4.0 Competetion
+This is the code we used for the Simulation Phase on MACHATHON 4.0 competition
 
 The simulator we used was CoppeliaSim
 
-You can find the competetion package here 
+You can find the competition package here 
 https://github.com/NouranHany/Machathon4.0-Judge
 
 The leaderboard https://stp-org.com/stp23/leader_board/back-end/leaderboardFinal.html
