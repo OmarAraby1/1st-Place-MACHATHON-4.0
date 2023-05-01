@@ -5,7 +5,7 @@ The simulator we used was CoppeliaSim
 You can find the competetion package here 
 https://github.com/NouranHany/Machathon4.0-Judge
 
-The leaderboared The leaderboard Link https://stp-org.com/stp23/leader_board/back-end/leaderboardFinal.html
+The leaderboard https://stp-org.com/stp23/leader_board/back-end/leaderboardFinal.html
 
 replace the test.py with our code to run it
 
