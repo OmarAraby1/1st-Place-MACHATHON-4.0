@@ -1,4 +1,6 @@
-This is the code we used for the Simulation Phase on CoppeliaSim
+This is the code we used for the Simulation Phase on MACHATHON 4.0 Competetion
+
+The simulator we used was CoppeliaSim
 
 You can find the competetion package here 
 https://github.com/NouranHany/Machathon4.0-Judge
